@@ -1,0 +1,40 @@
+body{
+    background-color:lightblue;
+
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+h2 {
+
+        background-color: steelblue;
+        font-family: sans-serif;
+}
+
+h3{
+        color: white;
+        background-color: lightskyblue;
+        font-family: sans-serif;
+}
+
+pre.bwhite{
+        background-color: white;
+        font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+p.cursiva{
+    font-style: oblique;
+    font-family: sans-serif;
+}
+
+address{
+        text-align: right;
+}
